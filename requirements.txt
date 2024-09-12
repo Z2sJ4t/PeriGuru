@@ -1,0 +1,7 @@
+fuzzywuzzy
+scikit-learn
+pandas
+numpy
+pickle5
+openai
+pyshine
