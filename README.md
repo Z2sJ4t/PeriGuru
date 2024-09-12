@@ -74,6 +74,6 @@ The robotic arm used in PeriGuru's testing is the [yahboom DOFBOT SE](http://www
 
 ## Demo
 
-![](./asset/demo_1.gif)
+![](https://github.com/Z2sJ4t/PeriGuru/blob/main/asset/demo_1.gif)
 
-![](./asset/demo_2.gif)
+![](https://github.com/Z2sJ4t/PeriGuru/blob/main/asset/demo_2.gif)
